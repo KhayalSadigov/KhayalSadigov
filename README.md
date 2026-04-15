@@ -40,9 +40,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhayalSadigov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhayalSadigov&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/khayalsadigov]([https://linkedin.com/in/khayalsadigov](https://www.linkedin.com/in/khayal-sadigov-12807b237/))
-- **Email:** khayalsadigov1@gmail.com
