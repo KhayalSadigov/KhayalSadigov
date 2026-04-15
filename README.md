@@ -17,7 +17,7 @@
 ### 🛠 Tech Stack
 
 #### 🎨 Frontend & UI
-`React` | `TypeScript` | `JavaScript` | `Electron.js` | `Tailwind CSS` | `Material UI` | `Ant Design` | `TanStack Query`
+`React` | `TypeScript` | `JavaScript` | `Electron.js` | `Tailwind CSS` | `Material UI` | `Ant Design` | `TanStack Query`| `Yup` | `Formik`
 
 #### 🔗 Backend & Database
 `Node.js` | `Express.js` | `MySQL (Sequelize)` | `MongoDB (Mongoose)` | `JWT` | `Bcrypt` | `Joi`
@@ -44,5 +44,5 @@
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/khayalsadigov](https://linkedin.com/in/khayalsadigov)
+- **LinkedIn:** [linkedin.com/in/khayalsadigov]([https://linkedin.com/in/khayalsadigov](https://www.linkedin.com/in/khayal-sadigov-12807b237/))
 - **Email:** khayalsadigov1@gmail.com
